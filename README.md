@@ -26,7 +26,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 
 - [Developer Hub](https://substrate.dev/) - Developer portal.
   - [Tutorials](https://substrate.dev/tutorials) - Guided exercises to get you started.
-  - [Knowledge Base](https://substrate.dev/knowledgebase) - In-depth documentation related to
+  - [Knowledge Base](https://substrate.dev/docs) - In-depth documentation related to
     Substrate development.
   - [Recipes](https://substrate.dev/recipes) - Working code examples that solve common problems.
   - [Reference Docs](https://substrate.dev/rustdocs) - Rustdoc API documentation.
@@ -248,15 +248,17 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation
   services for Substrate chains and more.
 - [`subsee`](https://github.com/ascjones/subsee) - CLI to inspect metadata of a substrate node as JSON.
+- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) -
+  A [Prometheus](https://prometheus.io/) exporter for Polkadot runtime metrics (modifable for substrate use).
 
 ### Substrate Mobile Engineering Tools / Libraries
 
 - [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) -
-Rust library for React Native
-- [Polkadot-Dart](Pocket4D/Polkadot-Dart) - Dart Substrate API
-- [PolkaWallet SDK](https://github.com/polkawallet-io/sdk)- Flutter SDK for Substrate-based App
-- [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools
-- [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools
+Rust library for React Native.
+- [Polkadot-Dart](Pocket4D/Polkadot-Dart) - Dart Substrate API.
+- [PolkaWallet SDK](https://github.com/polkawallet-io/sdk)- Flutter SDK for Substrate-based App.
+- [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
+- [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
 
 ## Alternative Implementations
 
